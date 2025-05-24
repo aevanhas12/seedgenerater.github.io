@@ -1,1 +1,1 @@
-# seedgenerater.github.io
+# seedgenerator
